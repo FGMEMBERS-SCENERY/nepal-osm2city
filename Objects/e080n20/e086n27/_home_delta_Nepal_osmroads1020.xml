@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<PropertyList>
+<path>_home_delta_Nepal_osmroads1020.ac</path>
+<effect>
+<!--
+    EITHER enable the traffic shader
+        <inherits-from>Effects/road-high</inherits-from>
+    OR the lightmap shader
+        <inherits-from>roads</inherits-from>
+-->
+        <inherits-from>Effects/road-high</inherits-from>
+        <object-name>_home_delta_Nepal_osmroads1020</object-name>
+</effect>
+</PropertyList>

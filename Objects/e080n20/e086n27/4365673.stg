@@ -1,0 +1,30 @@
+# osm2city__home_delta_Nepal_osm
+# do not edit below this line
+# Last Written Sun Apr 17 13:27:38 2016
+#
+OBJECT_STATIC _home_delta_Nepal_osmcity1542.xml 86.26536 27.63902 2192.38 0
+OBJECT_STATIC lightmap-switch.xml 86.26536 27.63902 2192.38 0
+OBJECT_STATIC _home_delta_Nepal_osmcity1543.xml 86.26536 27.65707 2830.37 0
+OBJECT_STATIC _home_delta_Nepal_osmcity1547.xml 86.26536 27.72926 2027.95 0
+OBJECT_STATIC _home_delta_Nepal_osmcity1548.xml 86.26536 27.74731 2305.85 0
+OBJECT_STATIC _home_delta_Nepal_osmcity1642.xml 86.28564 27.63902 2446.17 0
+OBJECT_STATIC _home_delta_Nepal_osmcity1643.xml 86.28564 27.65707 2219.51 0
+OBJECT_STATIC _home_delta_Nepal_osmcity1644.xml 86.28564 27.67512 2608.62 0
+OBJECT_STATIC _home_delta_Nepal_osmcity1648.xml 86.28564 27.74731 2964.55 0
+OBJECT_STATIC _home_delta_Nepal_osmcity1742.xml 86.30593 27.63902 1874.67 0
+OBJECT_STATIC _home_delta_Nepal_osmcity1743.xml 86.30593 27.65707 2318.59 0
+OBJECT_STATIC _home_delta_Nepal_osmcity1842.xml 86.32622 27.63902 2203.70 0
+OBJECT_STATIC _home_delta_Nepal_osmcity1843.xml 86.32622 27.65707 1978.93 0
+OBJECT_STATIC _home_delta_Nepal_osmcity1844.xml 86.32622 27.67512 2285.74 0
+OBJECT_STATIC _home_delta_Nepal_osmcity1845.xml 86.32622 27.69317 2655.92 0
+OBJECT_STATIC _home_delta_Nepal_osmcity1944.xml 86.34650 27.67512 2468.68 0
+OBJECT_STATIC _home_delta_Nepal_osmcity2342.xml 86.42765 27.63902 2467.33 0
+OBJECT_STATIC _home_delta_Nepal_osmcity2544.xml 86.46822 27.67512 2571.67 0
+OBJECT_STATIC _home_delta_Nepal_osmcity2545.xml 86.46822 27.69317 3047.20 0
+# END osm2city__home_delta_Nepal_osm
+# osm2roads__home_delta_Nepal_osm
+# do not edit below this line
+# Last Written Sun Apr 17 14:09:04 2016
+#
+OBJECT_STATIC _home_delta_Nepal_osmroads0637.xml 86.33186 27.67680 2200.61 0
+# END osm2roads__home_delta_Nepal_osm
